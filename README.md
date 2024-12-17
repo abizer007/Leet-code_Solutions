@@ -1,7 +1,7 @@
 # 📅 Six-Month DSA Study Plan
 
 ## Overview
-This structured six-month plan gradually introduces core DSA concepts and patterns, with 8-10 carefully selected practice questions each week. By the end of this plan, you’ll have covered foundational topics and advanced concepts needed for top-tier technical interviews.
+This structured six-month plan gradually introduces core DSA concepts and patterns, with 8-10 carefully selected practice questions each week. By the end of this plan, you’ll have covered foundational topics and advanced concepts needed for top-tier technical interviews. It also serves as a collection of leetcode.
 
 ---
 
@@ -21,8 +21,7 @@ This structured six-month plan gradually introduces core DSA concepts and patter
     4. **[Medium]** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
     5. **[Medium]** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     6. **[Medium]** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-    7. **[Medium]** [Longest Subarray with Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1/)
-    8. **[Medium]** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+    7. **[Medium]** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ### **Week 2: Advanced Array Manipulations**
 - **Topics**: Sorting, Interval Overlap, Cyclic Sort
